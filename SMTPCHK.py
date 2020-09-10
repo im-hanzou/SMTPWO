@@ -19,7 +19,7 @@ def SEND(SMTP):
         port = int(port)
         subject = 'SMTPTESTED'
         main = SMTP
-        Reciver = 'eslam.bers489@gmail.com'
+        Reciver = 'im.hanzou@gmail.com'
 
         msg = MIMEMultipart('alternative')
         msg["From"] = 'BETO'
